@@ -1,0 +1,681 @@
+{
+  "businesses": [
+    {
+      "id": "chdZtW3cNhdRhH-AwZ8I1g",
+      "alias": "citys-choice-san-francisco",
+      "name": "Citys Choice",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-Zo01T0pz4kVhtMOxf436Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/citys-choice-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 37.7802099,
+        "longitude": -122.40294
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "301 5th St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "301 5th St",
+          "San Francisco, CA 94107"
+        ]
+      },
+      "phone": "+14158961888",
+      "display_phone": "(415) 896-1888",
+      "distance": 784.777770869773
+    },
+    {
+      "id": "RZKmlQqq8XN82VwcEgMhqQ",
+      "alias": "kama-o-deli-san-francisco",
+      "name": "Kama O Deli",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kuOuELX_obb5YiS9Qq1YRw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kama-o-deli-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 80,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7801891062951,
+        "longitude": -122.394493681462
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "590 3rd St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94107",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "590 3rd St",
+          "San Francisco, CA 94107"
+        ]
+      },
+      "phone": "+14158729622",
+      "display_phone": "(415) 872-9622",
+      "distance": 879.3176729871393
+    },
+    {
+      "id": "2TUrb8EZwHY3Ouj67sdaaA",
+      "alias": "wise-sons-delicatessen-san-francisco-4",
+      "name": "Wise Sons Delicatessen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cCEHQjWY_Ajwizbn-rk4eQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/wise-sons-delicatessen-san-francisco-4?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 154,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7953897580148,
+        "longitude": -122.393274307251
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "Ferry Building Farmer's Market",
+        "address2": "",
+        "address3": "1 Ferry Bldg",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "Ferry Building Farmer's Market",
+          "1 Ferry Bldg",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+14157875534",
+      "display_phone": "(415) 787-5534",
+      "distance": 1114.1486963413138
+    },
+    {
+      "id": "QOtQMWtBoeoAGWnxxer4Sw",
+      "alias": "working-girls-cafe-san-francisco-3",
+      "name": "Working Girls' Cafe",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LLI6Afy68RS_uqezhBNdBQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/working-girls-cafe-san-francisco-3?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 408,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7870236,
+        "longitude": -122.4002386
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "122 New Montgomery St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "122 New Montgomery St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+14155371170",
+      "display_phone": "(415) 537-1170",
+      "distance": 28.22725630514869
+    },
+    {
+      "id": "zYUgm_qOcly8mhLdTSFnKw",
+      "alias": "palermo-ii-delicatessen-san-francisco",
+      "name": "Palermo II Delicatessen",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/47DciaUfzII175Wj4Stm_w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/palermo-ii-delicatessen-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 53,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude": 37.79894,
+        "longitude": -122.4086
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "location": {
+        "address1": "658 Vallejo St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94133",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "658 Vallejo St",
+          "San Francisco, CA 94133"
+        ]
+      },
+      "phone": "+14159370161",
+      "display_phone": "(415) 937-0161",
+      "distance": 1517.0065811617371
+    },
+    {
+      "id": "4NInBK_67cLRyUS7sq0CEg",
+      "alias": "millers-east-coast-deli-san-francisco",
+      "name": "Miller's East Coast Deli",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dp0f0riyDlevyCG2hwKx-Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/millers-east-coast-deli-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 1469,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 37.79273,
+        "longitude": -122.42145
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1725 Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "1725 Polk St",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14155633542",
+      "display_phone": "(415) 563-3542",
+      "distance": 1994.2636139310464
+    },
+    {
+      "id": "_7PmCSs1oEGLevlonhdFRw",
+      "alias": "daniels-cafe-san-francisco-2",
+      "name": "Daniel's Cafe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bnGv8c7Ct2PoNE0FM3QLpQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/daniels-cafe-san-francisco-2?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 270,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bagels",
+          "title": "Bagels"
+        },
+        {
+          "alias": "delis",
+          "title": "Delis"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.7855284,
+        "longitude": -122.4088907
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "154 Ellis St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "154 Ellis St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14159561760",
+      "display_phone": "(415) 956-1760",
+      "distance": 802.6415324766735
+    },
+    {
+      "id": "n5HRy0g5An_k4NIX1t53FQ",
+      "alias": "rincon-market-san-francisco",
+      "name": "Rincon Market",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5m8DQepDSt-URMzostj47w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rincon-market-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 142,
+      "categories": [
+        {
+          "alias": "grocery",
+          "title": "Grocery"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 37.7915188131615,
+        "longitude": -122.392526036056
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "98 Howard St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "98 Howard St",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+14155128066",
+      "display_phone": "(415) 512-8066",
+      "distance": 833.0363106142427
+    },
+    {
+      "id": "a1CLQ87WN1O-prqOZVfp-g",
+      "alias": "amazon-go-san-francisco-6",
+      "name": "Amazon Go",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vCcNh9bFoTdRwRkQBUYq_Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/amazon-go-san-francisco-6?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 15,
+      "categories": [
+        {
+          "alias": "grocery",
+          "title": "Grocery"
+        },
+        {
+          "alias": "convenience",
+          "title": "Convenience Stores"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.78969,
+        "longitude": -122.40051
+      },
+      "transactions": [],
+      "location": {
+        "address1": "575 Market St",
+        "address2": "Ste 150",
+        "address3": null,
+        "city": "San Francisco",
+        "zip_code": "94105",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "575 Market St",
+          "Ste 150",
+          "San Francisco, CA 94105"
+        ]
+      },
+      "phone": "+18882804331",
+      "display_phone": "(888) 280-4331",
+      "distance": 298.2648719166529
+    },
+    {
+      "id": "1bvordoxuK59aoPrOQpA7g",
+      "alias": "lucca-delicatessen-san-francisco",
+      "name": "Lucca Delicatessen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IMxxnS3k-WE5LniKwY0GTA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/lucca-delicatessen-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 624,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "cheese",
+          "title": "Cheese Shops"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.80065,
+        "longitude": -122.43836
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2120 Chestnut St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94123",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2120 Chestnut St",
+          "San Francisco, CA 94123"
+        ]
+      },
+      "phone": "+14159217873",
+      "display_phone": "(415) 921-7873",
+      "distance": 3708.4524038337845
+    },
+    {
+      "id": "n0KBa5ce7wH0sGE-Qe3gmg",
+      "alias": "davids-delicatessen-san-francisco",
+      "name": "David's Delicatessen",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5jvsv-hJBdHLGXkvK3ur8A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/davids-delicatessen-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 476,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        }
+      ],
+      "rating": 2,
+      "coordinates": {
+        "latitude": 37.7871374,
+        "longitude": -122.4110411
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "474 Geary St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "474 Geary St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14152765950",
+      "display_phone": "(415) 276-5950",
+      "distance": 976.5200574744572
+    },
+    {
+      "id": "B61vZd9neTI8F7zZ-vApmw",
+      "alias": "the-boys-deli-san-francisco",
+      "name": "The Boy's Deli",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qXbjX3opOgmgN_5NsCb9Cw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-boys-deli-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 290,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "meats",
+          "title": "Meat Shops"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.7971806,
+        "longitude": -122.421842
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "2222 Polk St",
+        "address2": "",
+        "address3": "Polk & Green Produce Market",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "2222 Polk St",
+          "Polk & Green Produce Market",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14157763099",
+      "display_phone": "(415) 776-3099",
+      "distance": 2235.2674125931903
+    },
+    {
+      "id": "KRO4PzfmbRgCu1Ayt1LE1g",
+      "alias": "mortys-delicatessen-san-francisco",
+      "name": "Morty's Delicatessen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NW5NwtCk404qF-UJd-OlVg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mortys-delicatessen-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 514,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "vegetarian",
+          "title": "Vegetarian"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.78188,
+        "longitude": -122.41522
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "280 Golden Gate Ave",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "280 Golden Gate Ave",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14155673354",
+      "display_phone": "(415) 567-3354",
+      "distance": 1457.5130699421723
+    },
+    {
+      "id": "kK0s7FAovaLmVDM4D_NdSQ",
+      "alias": "good-luck-cafe-and-deli-san-francisco",
+      "name": "Good Luck Cafe and Deli",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7diLgtddAjlrYm_62uLvUQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/good-luck-cafe-and-deli-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 399,
+      "categories": [
+        {
+          "alias": "delis",
+          "title": "Delis"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.793838,
+        "longitude": -122.404846
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "621 Kearny St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94108",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "621 Kearny St",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "phone": "+14157812328",
+      "display_phone": "(415) 781-2328",
+      "distance": 885.8862602767963
+    },
+    {
+      "id": "GDCQuo7n8xFrh2gH9atRSw",
+      "alias": "bush-market-san-francisco",
+      "name": "Bush Market",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EiklQNxYb1RLA81QYiGCcA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bush-market-san-francisco?adjust_creative=BLBLBQEX5-0zzwEwhYxkXA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=BLBLBQEX5-0zzwEwhYxkXA",
+      "review_count": 40,
+      "categories": [
+        {
+          "alias": "grocery",
+          "title": "Grocery"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 37.79,
+        "longitude": -122.41084
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "820 Bush St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94108",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "820 Bush St",
+          "San Francisco, CA 94108"
+        ]
+      },
+      "phone": "+14157766597",
+      "display_phone": "(415) 776-6597",
+      "distance": 1020.0219091646253
+    }
+  ],
+  "total": 812,
+  "region": {
+    "center": {
+      "longitude": -122.399972,
+      "latitude": 37.786882
+    }
+  }
+}
